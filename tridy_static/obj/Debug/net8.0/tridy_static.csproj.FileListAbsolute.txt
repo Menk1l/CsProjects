@@ -1,0 +1,14 @@
+/home/Menk1l/Code/CsProjects/tridy_static/bin/Debug/net8.0/tridy_static
+/home/Menk1l/Code/CsProjects/tridy_static/bin/Debug/net8.0/tridy_static.deps.json
+/home/Menk1l/Code/CsProjects/tridy_static/bin/Debug/net8.0/tridy_static.runtimeconfig.json
+/home/Menk1l/Code/CsProjects/tridy_static/bin/Debug/net8.0/tridy_static.dll
+/home/Menk1l/Code/CsProjects/tridy_static/bin/Debug/net8.0/tridy_static.pdb
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.GeneratedMSBuildEditorConfig.editorconfig
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.AssemblyInfoInputs.cache
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.AssemblyInfo.cs
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.csproj.CoreCompileInputs.cache
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.dll
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/refint/tridy_static.dll
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.pdb
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/tridy_static.genruntimeconfig.cache
+/home/Menk1l/Code/CsProjects/tridy_static/obj/Debug/net8.0/ref/tridy_static.dll

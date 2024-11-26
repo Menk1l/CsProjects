@@ -1,0 +1,14 @@
+/home/Menk1l/Code/CsProjects/studenti_score/bin/Debug/net8.0/studenti_score
+/home/Menk1l/Code/CsProjects/studenti_score/bin/Debug/net8.0/studenti_score.deps.json
+/home/Menk1l/Code/CsProjects/studenti_score/bin/Debug/net8.0/studenti_score.runtimeconfig.json
+/home/Menk1l/Code/CsProjects/studenti_score/bin/Debug/net8.0/studenti_score.dll
+/home/Menk1l/Code/CsProjects/studenti_score/bin/Debug/net8.0/studenti_score.pdb
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.GeneratedMSBuildEditorConfig.editorconfig
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.AssemblyInfoInputs.cache
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.AssemblyInfo.cs
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.csproj.CoreCompileInputs.cache
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.dll
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/refint/studenti_score.dll
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.pdb
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/studenti_score.genruntimeconfig.cache
+/home/Menk1l/Code/CsProjects/studenti_score/obj/Debug/net8.0/ref/studenti_score.dll

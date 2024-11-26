@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y6QNNCuvE2KAW2PiE+32OqBC+hIk4oqPGU5GYn4lpOoyLRrhCBzIkYOp3B8JwbmE60XqyJoB/ixLLxdQn23peg==",
+  "success": true,
+  "projectFilePath": "/home/Menk1l/Code/CsProjects/tridy/tridy.csproj",
+  "expectedPackageFiles": [
+    "/home/Menk1l/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/bin/Debug/net8.0/tridy_dedicnost
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/bin/Debug/net8.0/tridy_dedicnost.deps.json
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/bin/Debug/net8.0/tridy_dedicnost.runtimeconfig.json
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/bin/Debug/net8.0/tridy_dedicnost.dll
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/bin/Debug/net8.0/tridy_dedicnost.pdb
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.GeneratedMSBuildEditorConfig.editorconfig
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.AssemblyInfoInputs.cache
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.AssemblyInfo.cs
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.csproj.CoreCompileInputs.cache
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.dll
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/refint/tridy_dedicnost.dll
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.pdb
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/tridy_dedicnost.genruntimeconfig.cache
+/home/Menk1l/Code/CsProjects/tridy_dedicnost/obj/Debug/net8.0/ref/tridy_dedicnost.dll
