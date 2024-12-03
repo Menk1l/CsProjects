@@ -23,7 +23,7 @@ Explore the following C# projects:
 Clone the repository and open the projects in your favorite IDE:
 
 ```bash
-git clone https://github.com/mwnkil/CsProjects.git
+git clone https://github.com/Menk1l/CsProjects.git
 ```
 
 Feel free to modify and explore!
